@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle comment-block'
+      'command': 'comment-block:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'comment-block'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'comment-block:toggle'
+        }
+      ]
+    ]
+  }
+]

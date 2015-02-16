@@ -1,0 +1,5 @@
+{
+  ".editor": {
+    "ctrl-f3": "comment-block:convert"
+  }
+}
