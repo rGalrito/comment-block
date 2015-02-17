@@ -1,11 +1,11 @@
 {
   "name": "comment-block",
   "main": "./lib/comment-block",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A short description of your package",
   "activationCommands": [
     {
-     "atom-workspace" : "comment-block:toggle"
+      "atom-workspace": "comment-block:toggle"
     }
   ],
   "repository": "https://github.com/rGalrito/comment-block",
@@ -13,6 +13,5 @@
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
