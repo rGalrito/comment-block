@@ -2,7 +2,7 @@
   "name": "comment-block",
   "main": "./lib/comment-block",
   "version": "0.1.5",
-  "description": "Code commenting for js (missing block of code comment)",
+  "description": "Code commenting for js (only one line commenting is available, fork it at https://github.com/rGalrito/comment-block)",
   "activationCommands": [
     {
       "atom-workspace": "comment-block:toggle"
