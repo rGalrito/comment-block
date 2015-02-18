@@ -2,7 +2,7 @@
   "name": "comment-block",
   "main": "./lib/comment-block",
   "version": "0.1.4",
-  "description": "Code commenting for js \n missing block of code comment",
+  "description": "Code commenting for js (missing block of code comment)",
   "activationCommands": [
     {
       "atom-workspace": "comment-block:toggle"
