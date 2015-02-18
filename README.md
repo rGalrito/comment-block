@@ -5,7 +5,7 @@ This is an Atom package to help programmers to comment their code. There are ple
 ## Installation
 
 - Open Atom
-- Package Manager > Install
+- Package Manager > Install Package
 - comment-block
 - install
 - restart (ctrl+alt+r)
