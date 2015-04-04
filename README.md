@@ -12,7 +12,9 @@ This is an Atom package to help programmers to comment their code. There are ple
 
 ## Usage
 
-Whether you select on line, or multiple, you only need a shortcut: Ctrl + F3
+Whether you select one line, or multiple, you only need a shortcut: Ctrl + F3
+
+If you are using search (ctrl + f) and you are searching for results (f3), you can use ctrl + f3 to (un)comment and continue searching easily.
 
 ## Contributing
 
