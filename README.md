@@ -24,8 +24,6 @@ If you are using search (ctrl + f) and you are searching for results (f3), you c
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## History
-
-## Credits
-
 ## License
+
+GPL v2.0 - check LICENSE.md for more.
