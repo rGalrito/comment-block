@@ -1,7 +1,7 @@
 {
   "name": "comment-block",
   "main": "./lib/comment-block",
-  "version": "0.1.7",
+  "version": "0.2.0",
   "description": "Code commenting for js ( only one line commenting is available, fork it at https://github.com/rGalrito/comment-block )",
   "activationCommands": [
     {
